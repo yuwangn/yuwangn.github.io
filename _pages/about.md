@@ -15,7 +15,7 @@ Previously, I received my B.S. degree from Nanjing University of Aeronautics and
 My research interests lie in imitation learning, machine learning reinforcement learning, dynamical systems, optimal control, robot manipulation, continuous contact tasks.
 
 My recent work has focused on learning and generalizing skills in robotic machining tasks. The main directions are:
-- Accuracy improvement of robot trajectory learning based on dynamic motion primitives
+- Accuracy improvement of robot trajectory learning based on dynamic movement primitives
 - Coupled learning of force-position skills in robotic machining tasks
 - Improvement of skill execution robustness in uncertain environments
 
