@@ -12,6 +12,6 @@ author_profile: true
 {% include base_path %}
 
 
-**Learning Adaptive Safety for Multi-Agent Systems**  
-Luigi Berducci, **Shuo Yang**, Rahul Mangharam, Radu Grosu  
-*under review* [[PDF](https://arxiv.org/abs/2309.10657)]
+**Adaptive Tuning of Robotic Polishing Skills based on Force Feedback Model**  
+**Yu Wang**, Zhouyi Zheng, Chen Chen, Zezheng Wang, Zhitao Gao, Fangyu Peng, Xiaowei Tang, and Rong Yan 
+*2023 IEEE International Conference on Robotics and Biomimetics* [[PDF](https://arxiv.org/pdf/2310.14860.pdf)]
