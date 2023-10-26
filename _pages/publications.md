@@ -11,9 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
 
 **Learning Adaptive Safety for Multi-Agent Systems**  
 Luigi Berducci, **Shuo Yang**, Rahul Mangharam, Radu Grosu  
