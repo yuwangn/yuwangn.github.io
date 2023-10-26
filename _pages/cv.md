@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in College of Mechanical and Electrical Engineering, Nanjing University of Aeronautics and Astronautics, 2014-2018
+* M.S. in School of Mechanical Science and Engineering, Huazhong University of Science and Technology, 2018-2019
+* Ph.D in School of Mechanical Science and Engineering, Huazhong University of Science and Technology, 2024 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fusion representation of force position continuous skills and micro data search based skills
+generalization of robot machining (National Natural Science Foundation of China),2022-Present
+  * Design and build a hardware platform for robot machining imitation learning and intelligent control research.
+  * Propose a robot polishing force-position coupling skill learning method based on expert demonstration.
+  * Propose a fast segmentation method for the machining stage
+  * Propose a contact position estimation method considering the contact torque
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Theoretical and methodological study on process data-driven robotic milling of complex
+segments (National Natural Science Foundation of China), 2021-Present
+  * Propose B-spline dynamic movement primitives to improve trajectory learning accuracy
+  * Propose robot machining trajectory generalization method based on reinforcement learning and dynamic system
+
+* CNC machining technology and equipment (National Science Fund for Distinguished Young
+Scholars), 2018-2021
+  * Analyze the chattering phenomena and characteristics in robotic milling tasks, classify the vibration states into four categories
+  * Propose a chatter state identification method based on variational modal decomposition and information entropy
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Hardware:
+  * UR16e, ABB IRB 6660, ATI Gamma & Onrobot HEX Force/Torque Sensor, Onrobot Sander, NAKANISHI & Jager Spindle
+* Software:
+  * ROS, MATLAB, Python, C++, MuJoCo, LabVIEW
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
