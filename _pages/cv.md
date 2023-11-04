@@ -23,11 +23,8 @@ generalization of robot machining (National Natural Science Foundation of China)
   * Propose a robot polishing force-position coupling skill learning method based on expert demonstration.
   * Propose a fast segmentation method for the machining stage
   * Propose a contact position estimation method considering the contact torque
-
-* Theoretical and methodological study on process data-driven robotic milling of complex
-segments (National Natural Science Foundation of China), 2021-Present
   * Propose B-spline dynamic movement primitives to improve trajectory learning accuracy
-  * Propose robot machining trajectory generalization method based on reinforcement learning and dynamic system
+Propose robot machining trajectory generalization method based on reinforcement learning and dynamic system
 
 * CNC machining technology and equipment (National Science Fund for Distinguished Young
 Scholars), 2018-2021
