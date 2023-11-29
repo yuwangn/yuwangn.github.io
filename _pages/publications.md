@@ -10,7 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+**PI2-BDMPs in Combination with Contact Force Model: a Robotic Polishing Skill Learning and Generalization Approach**
+**Yu Wang**, Chen Chen, Yong Hong, Zhouyi Zheng, Zhitao Gao, Fangyu Peng, Rong Yan, Xiaowei Tang
+*IEEE/ASME Transactions on Mechatronics* (Submitted).
 
 **Adaptive Tuning of Robotic Polishing Skills based on Force Feedback Model**  
 **Yu Wang**, Zhouyi Zheng, Chen Chen, Zezheng Wang, Zhitao Gao, Fangyu Peng, Xiaowei Tang, and Rong Yan   
