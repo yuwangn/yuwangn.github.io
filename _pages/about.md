@@ -19,6 +19,4 @@ My recent work has focused on learning and generalizing skills in robotic machin
 - Coupled learning of force-position skills in robotic machining tasks
 - Improvement of skill execution robustness in uncertain environments
 
-Please find my [CV](../assets/Curriculum_Vitae.pdf) here and let me know if you want to collaborate with me. 
-
 My E-mail: yu_wang97@163.com.
