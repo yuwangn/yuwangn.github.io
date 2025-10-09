@@ -18,7 +18,7 @@ My research interests lie in imitation learning, machine learning, reinforcement
 
 My recent work has focused on learning and generalizing skills in robotic manipulation tasks. The main directions are:
 - Data Learning in Riemannian Spaces
-- Asymmetric collaboration of dual-arm robots
+- Asymmetric Collaboration of Dual-Arm Robots
 - Adaptive Manipulation Control in Uncertain Environments
 
 My E-mail: yu_wang@haust.edu.cn
