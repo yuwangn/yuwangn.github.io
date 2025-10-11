@@ -14,11 +14,11 @@ Previously,I received my Ph.D degree in the [School of Mechanical Science and En
 
 And, I received my B.S. degree from Nanjing University of Aeronautics and Astronautics.
 
-My research interests lie in imitation learning, machine learning, reinforcement learning, dynamical systems, optimal control, robot manipulation, continuous contact tasks.
+My research interests lie in dynamical systems, optimal control, manipulation, continuous contact tasks.
 
-My recent work has focused on learning and generalizing skills in robotic manipulation tasks. The main directions are:
+My recent work has focused on learning and generalizing skills in manipulation tasks. The main directions are:
 - Data Learning in Riemannian Spaces
-- Asymmetric Collaboration of Dual-Arm Robots
+- Asymmetric Collaborations
 - Adaptive Manipulation Control in Uncertain Environments
 
 My E-mail: yu_wang@haust.edu.cn
