@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a [Lecturer](https://jd.haust.edu.cn/info/1211/75136.htm) at the School of Mechatronics Engineering, Henan University of Science and Technology (HAUST).
+I am currently an [Associate professor](https://jd.haust.edu.cn/info/1211/75136.htm) at the School of Mechatronics Engineering, Henan University of Science and Technology (HAUST).
 
 Previously,I received my Ph.D degree in the [School of Mechanical Science and Engineering](https://en-mse.hust.edu.cn/index.htm), [Huazhong University of Science and Technology](http://english.hust.edu.cn/). My supervisor is [Prof. Fangyu Peng](https://en-mse.hust.edu.cn/info/1085/2053.htm). 
 
