@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* Lecture in School of Mechatronics Engineering, Henan University of Science and Technology, 2024-2025
+* Associate Professor in School of Mechatronics Engineering, Henan University of Science and Technology, 2025-Present
+
 Education
 ======
 * B.S. in College of Mechanical and Electrical Engineering, Nanjing University of Aeronautics and Astronautics, 2014-2018
