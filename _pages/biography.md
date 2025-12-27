@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* Lecture in School of Mechatronics Engineering, Henan University of Science and Technology, 2024-2025
+* Lecturer in School of Mechatronics Engineering, Henan University of Science and Technology, 2024-2025
 * Associate Professor in School of Mechatronics Engineering, Henan University of Science and Technology, 2025-Present
 
 Education
